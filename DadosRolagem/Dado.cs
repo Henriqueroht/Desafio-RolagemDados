@@ -20,6 +20,7 @@ namespace DadosRolagem
         {
             Random rd = new Random();
             NumeroRolado = rd.Next(1, QuantidadeDeLados + 1);
+            //Teste
         }
     }
 }
